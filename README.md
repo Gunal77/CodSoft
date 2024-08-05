@@ -19,7 +19,7 @@
 1. Clone the repository:
 
    ```bash
-   gh repo clone nivas7/React-Quizz
+   gh repo clone Gunal77/React-Quizz
    ```
 
 2. Install dependencies:
